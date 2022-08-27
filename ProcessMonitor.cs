@@ -26,9 +26,9 @@
 //   • Number of open handles
 //
 // Additional information:
-//   • Data collection is performed while the process is running, the application automatically exists afterwards.
+//   • Data collection is performed while the process is running, the application automatically exits afterwards.
 //   • Path to the executable file for the process, time interval between data collection iterations and
-//     an output directory are to be be provided by user.
+//     an output directory are to be be provided by the user.
 //     -> Example File Path: C:\Program Files\Notepad++\notepad++.exe
 //     -> Example Output Path: C:\Users\Default\Desktop
 //   • Collected data will be stored in the specified directory in CSV format, allowing for automated parsing.
